@@ -13,12 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 // ✅ Mets ici TON URL Vercel exacte :
-const SITE_URL = "https://portfolioialiate.vercel.app";
+const SITE_URL = "https://portfolio-agoroaliate.vercel.app";
 
 export const metadata: Metadata = {
   title: "Aliate — Portfolio",
   description: "Portfolio professionnel — projets, compétences et contact.",
-  metadataBase: new URL("https://portfolioialiate.vercel.app"),
+  metadataBase: new URL("https://portfolio-agoroaliate.vercel.app"),
 
   openGraph: {
     title: "Aliate — Portfolio",
