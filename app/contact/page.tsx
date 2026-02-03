@@ -57,10 +57,10 @@ export default function ContactPage() {
 <div className="rounded-xl border p-6">
   <p className="text-sm font-medium text-gray-500">Téléphone</p>
   <a
-    href="tel:+330759545483"
+    href="tel:+33759545483"
     className="mt-2 block font-medium underline"
   >
-    +33 07 59 54 54 83
+    +33 7 59 54 54 83
   </a>
   <p className="mt-2 text-sm text-gray-600">
     Appel ou message, selon disponibilité.

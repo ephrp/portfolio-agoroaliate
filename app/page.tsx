@@ -20,7 +20,7 @@ export default function Home() {
     </p>
 
     <p className="mt-6 text-sm font-medium uppercase tracking-widest text-gray-500">
-      Transformation digitale · Gestion de projet · Data & outils métier
+      Transformation digitale · Management des systèmes d'informations
     </p>
 
     <p className="mt-8 text-lg leading-relaxed text-gray-700 max-w-3xl">
