@@ -16,7 +16,7 @@ export default function Home() {
     </h1>
 
     <p className="mt-4 text-lg text-gray-600">
-      Alternance – Master en transformation digitale 
+      Alternance –- Master en transformation digitale 
     </p>
 
     <p className="mt-6 text-sm font-medium uppercase tracking-widest text-gray-500">
