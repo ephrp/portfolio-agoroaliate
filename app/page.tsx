@@ -16,12 +16,10 @@ export default function Home() {
     </h1>
 
     <p className="mt-4 text-lg text-gray-600">
-      Alternance –- Master en transformation digitale 
+      Alternance 2026 –- Master en transformation digitale 
     </p>
 
-    <p className="mt-6 text-sm font-medium uppercase tracking-widest text-gray-500">
-      Transformation digitale · Management des systèmes d'informations
-    </p>
+    
 
     <p className="mt-8 text-lg leading-relaxed text-gray-700 max-w-3xl">
       Passionnée par la transformation digitale, je mets ma rigueur scientifique et mon esprit de synthèse au service des projets. Mon profil hybride me permet de comprendre les enjeux métiers tout en collaborant efficacement avec les équipes techniques.
