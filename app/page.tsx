@@ -16,13 +16,13 @@ export default function Home() {
     </h1>
 
     <p className="mt-4 text-lg text-gray-600">
-      Alternance 2026 –- Master en transformation digitale 
+      Alternance 2026 –- Master en Supply Chain Management
     </p>
 
     
 
     <p className="mt-8 text-lg leading-relaxed text-gray-700 max-w-3xl">
-      Passionnée par la transformation digitale, je mets ma rigueur scientifique et mon esprit de synthèse au service des projets. Mon profil hybride me permet de comprendre les enjeux métiers tout en collaborant efficacement avec les équipes techniques.
+      Étudiante préparant un Master en Supply Chain Management pour la rentrée de 2026, je recherche une alternance afin de développer mon expertise en pilotage des opérations logistiques. Grâce à une expérience terrain, j’ai acquis des compétences en gestion des flux, optimisation des stocks et analyse de données.
     </p>
 
     <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
